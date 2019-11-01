@@ -1,0 +1,6 @@
+E:\000_COGUT_visual\03_C# Self-Teach\Console005_MoveTheStar\Console005_MoveTheStar\bin\Debug\Console005_MoveTheStar.exe.config
+E:\000_COGUT_visual\03_C# Self-Teach\Console005_MoveTheStar\Console005_MoveTheStar\bin\Debug\Console005_MoveTheStar.exe
+E:\000_COGUT_visual\03_C# Self-Teach\Console005_MoveTheStar\Console005_MoveTheStar\bin\Debug\Console005_MoveTheStar.pdb
+E:\000_COGUT_visual\03_C# Self-Teach\Console005_MoveTheStar\Console005_MoveTheStar\obj\Debug\Console005_MoveTheStar.csprojAssemblyReference.cache
+E:\000_COGUT_visual\03_C# Self-Teach\Console005_MoveTheStar\Console005_MoveTheStar\obj\Debug\Console005_MoveTheStar.exe
+E:\000_COGUT_visual\03_C# Self-Teach\Console005_MoveTheStar\Console005_MoveTheStar\obj\Debug\Console005_MoveTheStar.pdb
